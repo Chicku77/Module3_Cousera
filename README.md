@@ -1,2 +1,1 @@
-# Module3_Cousera
-Module3 Assignment of Single Page Web Applications With AngularJS
+# Coursera-AngularJS-Module3-Solution
